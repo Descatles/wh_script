@@ -8,11 +8,7 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "https://github.com/Descatles/wh_script.git"
-=======
-    "url": "https://github.com/LXK9301/jd_scripts.git"
->>>>>>> lxkupstream/master
   },
   "keywords": [
     "京东薅羊毛工具, 京东水果、宠物、种豆等等"
