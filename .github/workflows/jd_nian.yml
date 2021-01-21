@@ -1,4 +1,4 @@
-name: 京东炸年兽~任务
+name: 京东炸年兽
 
 on:
   workflow_dispatch:
@@ -32,7 +32,7 @@ jobs:
         run: |
           cd ~/wh_script
           npm install
-      - name: '运行 【京东炸年兽~任务】'
+      - name: '运行 【京东炸年兽】'
         run: |
           cd ~/wh_script
           node jd_nian.js
